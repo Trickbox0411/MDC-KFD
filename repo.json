@@ -1,0 +1,372 @@
+{
+    "RepositoryName": "⚡️Ròm Lầy⚡️",
+    "RepositoryDescription": "Tweak MDC & KFD",
+    "RepositoryAuthor": "RomLay",
+    "RepositoryIcon": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Assets/avatarepo.gif",
+    "RepositoryWebsite": "https://github.com/Trickbox0411/MDC-KFD",
+    "Default": {
+        "HeaderImage": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Logo/baner.gif",
+        "Author": {
+            "Label": "RomLay",
+            "Links": [
+                {
+                    "Label": "Telegram",
+                    "Link": "https://t.me/romlayvn"
+                }
+            ]
+        },
+        "ViewCount": true
+    },
+    "RepositoryContents": [
+        {
+            "Name": "Assistive Touch ",
+            "Author": {
+                "Label": "Reym, Romlay.",
+                "Links": [
+                    {
+                        "Label": "Reym",
+                        "Link": "https://t.me/reym9x"
+                    },
+                    {
+                        "Label": "RomLay",
+                        "Link": "https://t.me/romlayvn"
+                    }
+                ]
+            },
+            "Description": "Give Assistive Touch a new look",
+            "Category": "Assistive Touch",
+            "Caption": "Replace boring default Apple icons in Assistive Touch",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6.1",
+            "Icon": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Logo/ass.jpg",
+            "HeaderImage": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Logo/baner.gif",
+            "Screenshot": [
+                "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/ScreenShot/ass1.jpg",
+                "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/ScreenShot/ass2.jpg",
+                "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/ScreenShot/ass3.jpg"
+            ],
+            "Releases": [
+                {
+                    "Version": "2.0",
+                    "Package": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/AssistiveTouch/com.romlayvn.AssistiveTouch.misaka",
+                    "Description": "New Assistive Touch For Iphone"
+                }
+            ],
+            "PackageID": "com.romlayvn.AssistiveTouch"
+        },
+        {
+            "Name": "LSUI 15-16",
+            "Author": {
+                "Label": "Reym,Romlay",
+                "Links": [
+                    {
+                        "Label": "Reym",
+                        "Link": "https://t.me/reym9x"
+                    },
+                    {
+                        "Label": "RomLay",
+                        "Link": "https://t.me/romlayvn"
+                    }
+                ]
+            },
+            "Description": "Change Camera and Flash",
+            "Category": " LSUI 15-16",
+            "Caption": "Change Camera and Flash",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6.1",
+            "Icon": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Logo/lsui3.png",
+            "HeaderImage": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Logo/baner.gif",
+            "Screenshot": [
+                "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/ScreenShot/LSui.jpg"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/LockScreen/com.Reym.LSUI15-16.misaka",
+                    "Description": "New LockScreen UI"
+                }
+            ],
+            "PackageID": "com.Reym.LSUI15-16"
+        },
+        {
+            "Name": "PassCode",
+            "Author": {
+                "Label": "Reym,Romlay",
+                "Links": [
+                    {
+                        "Label": "Reym",
+                        "Link": "https://t.me/reym9x"
+                    },
+                    {
+                        "Label": "RomLay",
+                        "Link": "https://t.me/romlayvn"
+                    }
+                ]
+            },
+            "Description": "Change Passcode",
+            "Category": "PassCode",
+            "Caption": "Change Passcode Name",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6b1",
+            "Icon": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Logo/pass.gif",
+            "HeaderImage": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Logo/baner.gif",
+            "Screenshot": [
+                "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/ScreenShot/pass.jpg",
+                "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/ScreenShot/pass2.jpeg"
+            ],
+            "Releases": [
+                {
+                    "Version": "2.0",
+                    "Package": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/Passcode/com.romlayvn.Passcode.misaka",
+                    "Description": "New Change Passcode"
+                }
+            ],
+            "PackageID": "com.romlayvn.Passcode"
+        },
+        {
+            "Name": "Fonts Clock 16",
+            "Author": {
+                "Label": "RomLay",
+                "Links": [
+                    {
+                        "Label": "RomLay",
+                        "Link": "https://t.me/romlayvn"
+                    }
+                ]
+            },
+            "Description": "Change Clock Fonts For Ios 16",
+            "Category": "Clock Fonts",
+            "Caption": "Change Clock Fonts",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.6.1",
+            "Icon": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Logo/clock.png",
+            "HeaderImage": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Logo/baner.gif",
+            "Screenshot": [
+                "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/ScreenShot/clock1.jpg"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/LockScreen/com.Trickbox0411.ClockFonts.misaka",
+                    "Description": "New Clock Fonts"
+                }
+            ],
+            "PackageID": "com.RomLay.ClockFonts"
+        },
+        {
+            "Name": "Fonts Clock 17",
+            "Author": {
+                "Label": "RomLay",
+                "Links": [
+                    {
+                        "Label": "RomLay",
+                        "Link": "https://t.me/romlayvn"
+                    }
+                ]
+            },
+            "Description": "Change Clock Fonts Ios 16",
+            "Category": "Clock Fonts",
+            "Caption": "Bring iOS 17 clock fonts to iOS 16",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.6.1",
+            "Icon": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Logo/clock.png",
+            "HeaderImage": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Logo/baner.gif",
+            "Screenshot": [
+                "https://github.com/RomLay/MDC-KFD/raw/main/Tweaks/ScreenShot/iOs17-2.jpg"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/LockScreen/com.RomLay.ClockIos17.misaka",
+                    "Description": "New Clock Fonts"
+                }
+            ],
+            "PackageID": "com.RomLay.ClockIos17"
+        },
+        {
+            "Name": "LS Bunny",
+            "Author": {
+                "Label": "RomLay",
+                "Links": [
+                    {
+                        "Label": "RomLay",
+                        "Link": "https://t.me/romlayvn"
+                    }
+                ]
+            },
+            "Description": "Change Clock Fonts Ios 15",
+            "Category": "Clock Fonts",
+            "Caption": "✓ New Clock Font For Ios 15. \n\n✓ Make by Ròm Lầy VN.",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "15.7.1",
+            "Icon": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Logo/clock.png",
+            "HeaderImage": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Logo/baner.gif",
+            "Screenshot": [
+                "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/ScreenShot/bunny.PNG"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/LockScreen/com.RomLay.LS15Bunny.misaka",
+                    "Description": "For iOs15"
+                }
+            ],
+            "PackageID": "com.RomLay.LS15Bunny"
+        },
+        {
+            "Name": "LS Buble",
+            "Author": {
+                "Label": "RomLay",
+                "Links": [
+                    {
+                        "Label": "RomLay",
+                        "Link": "https://t.me/romlayvn"
+                    }
+                ]
+            },
+            "Description": "Change Clock Fonts Ios 15-16",
+            "Category": "Clock Fonts",
+            "Caption": "✓ New Clock Font For Ios 15-16.",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6.1",
+            "Icon": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Logo/clock.png",
+            "HeaderImage": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Logo/baner.gif",
+            "Screenshot": [
+                "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/ScreenShot/buble.PNG"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/LockScreen/com.RomLay.LSBuble.misaka",
+                    "Description": "New Clock Fonts"
+                }
+            ],
+            "PackageID": "com.RomLay.LSBuble"
+        },
+        {
+            "Name": "LS16 Book",
+            "Author": {
+                "Label": "RomLay",
+                "Links": [
+                    {
+                        "Label": "RomLay",
+                        "Link": "https://t.me/romlayvn"
+                    }
+                ]
+            },
+            "Description": "Change Clock Fonts For Ios 16",
+            "Category": "Clock Fonts",
+            "Caption": "Change Clock Fonts",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.6.1",
+            "Icon": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Logo/clock.png",
+            "HeaderImage": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Logo/baner.gif",
+            "Screenshot": [
+                "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/ScreenShot/book.PNG"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/LockScreen/com.RomLay.LS16Book.misaka",
+                    "Description": "New Clock Fonts"
+                }
+            ],
+            "PackageID": "com.RomLay.LS16Book"
+        },
+        {
+            "Name": "LS16 Star Night",
+            "Author": {
+                "Label": "RomLay",
+                "Links": [
+                    {
+                        "Label": "RomLay",
+                        "Link": "https://t.me/romlayvn"
+                    }
+                ]
+            },
+            "Description": "Change Clock Fonts For Ios 16",
+            "Category": "Clock Fonts",
+            "Caption": "Change Clock Fonts",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.6.1",
+            "Icon": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Logo/clock.png",
+            "HeaderImage": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Logo/baner.gif",
+            "Screenshot": [
+                "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/ScreenShot/SN1.PNG",
+                "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/ScreenShot/SN2.PNG"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/LockScreen/com.RomLay.LSStarNight.misaka",
+                    "Description": "New Clock Fonts"
+                }
+            ],
+            "PackageID": "com.RomLay.LSStarNight"
+        },
+        {
+            "Name": "LS16 Bunny",
+            "Author": {
+                "Label": "RomLay",
+                "Links": [
+                    {
+                        "Label": "RomLay",
+                        "Link": "https://t.me/romlayvn"
+                    }
+                ]
+            },
+            "Description": "Change Clock Fonts Ios16",
+            "Category": "Clock Fonts",
+            "Caption": "✓ New Clock Font For Ios16. \n\n✓ Make by Ròm Lầy VN.",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.6.1",
+            "Icon": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Logo/clock.png",
+            "HeaderImage": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Logo/baner.gif",
+            "Screenshot": [
+                "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/ScreenShot/bunny.PNG"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "http://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/LockScreen/com.RomLay.LS16Bunny.misaka",
+                    "Description": "For iOs16"
+                }
+            ],
+            "PackageID": "com.RomLay.LS16Bunny"
+        },
+        {
+            "Name": "LS15 Eula",
+            "Author": {
+                "Label": "p0s3id0n,RomLay",
+                "Links": [
+                    {
+                        "Label": "p0s3id0n",
+                        "Link": "https://t.me/p0s3id0n686"
+                    },
+                    {
+                        "Label": "RomLay",
+                        "Link": "https://t.me/romlayvn"
+                    }
+                ]
+            },
+            "Description": "Change Clock Fonts Ios15",
+            "Category": "Clock Fonts",
+            "Caption": "✓ Make by p0s3id0n. \n\n✓ There are two options between fill and outline ",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "15.7.1",
+            "Icon": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Logo/clock.png",
+            "HeaderImage": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Logo/baner.gif",
+            "Screenshot": [
+                "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/ScreenShot/Eula15.jpg"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "http://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/LockScreen/com.RomLay.LS15Eula.misaka",
+                    "Description": "For iOs15"
+                }
+            ],
+            "PackageID": "com.RomLay.LS15Eula"
+        }
+    ]
+}
