@@ -38,7 +38,7 @@
             "Caption": "Replace boring default Apple icons in Assistive Touch",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.6.1",
-            "Icon": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Logo/ass.jpg",
+            "Icon": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Logo/assistive.png",
             "HeaderImage": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Logo/baner.gif",
             "Screenshot": [
                 "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/ScreenShot/ass1.jpg",
@@ -108,7 +108,7 @@
             "Caption": "Change Passcode Name",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.6b1",
-            "Icon": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Logo/pass.gif",
+            "Icon": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Logo/pass.png",
             "HeaderImage": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Logo/baner.gif",
             "Screenshot": [
                 "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/ScreenShot/pass.jpg",
