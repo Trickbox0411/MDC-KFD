@@ -38,3 +38,24 @@ http://flekstore.com/MISAKA
   <img src="https://media.discordapp.net/attachments/1157757093097521162/1181245992822128640/out.png" alt="misaka" width="MISAKA" height="600"/>
 </p>
 <br>
+
+# Thank you Misaka Team!
+
+Contributors
+- [**straight-tamago**](https://twitter.com/straight_tamago): Lead Developer;
+- [**Little 34306**](https://twitter.com/Little_34306): KFD Exploit & Offsets;
+- [**Lavochka**](https://twitter.com/lavochka04): dylib injection;
+- [**AppInstaller iOS**](https://twitter.com/AppInstalleriOS): File Stuff & KFD Offsets;
+- [**uz.ra**](https://twitter.com/ChromiumCandy): UI Design;
+- [**LeminLimez**](https://twitter.com/LeminLimez): Settings Page;
+- [**opa334**](https://x.com/opa334dev): TrollStore;
+- [**Alfie**](https://github.com/alfiecg24): TrollStore;
+- [**haxi0sm**](https://twitter.com/haxi0sm): Icon Design & Recommended Page;
+- [**Serena**](https://twitter.com/CoreSerena): PrivateKits;
+- [**htrowii**](https://twitter.com/htrowii): KFD Exploit Code;
+- [**wh1te4ever**](https://twitter.com/wh1te4ever): KFD Exploit Code;
+- [**p0up0u**](https://twitter.com/_p0up0u_): KFD Exploit Code;
+- [**zhuowei**](https://twitter.com/zhuowei): MDC Exploit Code;
+- [**ginsudev**](https://twitter.com/ginsudev): MDC Exploit Code;
+- [**WDBFontOverwrite**](https://github.com/ginsudev/CVE-2022-46689): MDC Exploit Code;
+- [**Ian Beer of Project Zero**](https://twitter.com/i41nbeer): MDC Exploit Code;
