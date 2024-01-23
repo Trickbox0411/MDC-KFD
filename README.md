@@ -3,7 +3,6 @@
  <img src="https://github.com/Trickbox0411/MDC-KFD/raw/main/Avt.png" alt="Avt" width="Avt" height="200"/> 
 <p/>
   
-[Welcome to my Github Repo](https://romlayvn.github.io/)
 =============
 # Contact me
 - [Telegram](https://t.me/romlayvn) - ℝ𝕠̀𝕞 𝕃𝕒̂̀𝕪
@@ -25,7 +24,7 @@
 
 17.0 & up can use PiP tweaks
   
-## Download
+# Download
 <h3>You can download the latest version of misaka from here:</h3>
 
 [Download IPA Here](https://github.com/straight-tamago/misaka/releases/latest)
