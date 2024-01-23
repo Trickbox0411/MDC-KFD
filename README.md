@@ -6,8 +6,11 @@
 [Welcome to my Github Repo](https://romlayvn.github.io/)
 =============
   <ul>
-  <h2 align="left">Contact me - [Ròm Lầy VN](https://t.me/romlayvn) </h2>
-  <li>Download Tweak MDC/KFD on Misaka</li>
+<li> Contact me </li>
+[Telegram](https://t.me/romlayvn)
+[Twitter](https://x.com/romlayvn?s=21)
+<li>Download Tweak MDC/KFD on Misaka</li>
+[Repo Misaka](https://tinyurl.com/romlayvn)
 
   </ul>
 ## Versions Supported
