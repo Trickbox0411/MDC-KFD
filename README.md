@@ -31,6 +31,7 @@
 # Thank's Misaka Team!
 
 <h3>🎼Contributors</h3>
+
 - [**straight-tamago**](https://twitter.com/straight_tamago): Lead Developer;
 - [**Little 34306**](https://twitter.com/Little_34306): KFD Exploit & Offsets;
 - [**Lavochka**](https://twitter.com/lavochka04): dylib injection;
