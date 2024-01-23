@@ -21,27 +21,16 @@
 | 16.2 - 16.6.1 | - | ✓ |
 | 17.0 & up | - | - |
 
-17.0 & up can use PiP tweaks
-  
+•17.0 & up can use PiP tweaks
+•Device support:A12+ iOS; ipadOS; tvOS
 # Download
 <h3>You can download the latest version of misaka from here:</h3>
 
 [Download IPA Here](https://github.com/straight-tamago/misaka/releases/latest)
 
-*Misaka is available at no cost, you can install it through AltStore, Sideloadly or TrollStore*
+# Thank's Misaka Team!
 
-
-You can also use this service to install it.
-http://flekstore.com/MISAKA
-
-<p align="left">
-  <img src="https://media.discordapp.net/attachments/1157757093097521162/1181245992822128640/out.png" alt="misaka" width="MISAKA" height="600"/>
-</p>
-<br>
-
-# Thank you Misaka Team!
-
-Contributors
+🎼Contributors
 - [**straight-tamago**](https://twitter.com/straight_tamago): Lead Developer;
 - [**Little 34306**](https://twitter.com/Little_34306): KFD Exploit & Offsets;
 - [**Lavochka**](https://twitter.com/lavochka04): dylib injection;
