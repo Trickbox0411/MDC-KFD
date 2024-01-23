@@ -9,7 +9,7 @@
 
 - What in it?:
   <ul>
-  <li>Contact me - Ròm Lầy VN(https://t.me/romlayvn) </li>
+  <li>Contact me - [Ròm Lầy VN](https://t.me/romlayvn) </li>
   <li>Download Tweak MDC/KFD on Misaka</li>
 
   </ul>
