@@ -6,8 +6,8 @@
 [Welcome to my Github Repo](https://romlayvn.github.io/)
 =============
  <br>Contact me</br>
-[Telegram](https://t.me/romlayvn)
-[Twitter](https://x.com/romlayvn?s=21)
+[**Telegram**](https://t.me/romlayvn)
+[**Twitter**](https://x.com/romlayvn?s=21)
 <br>Download Tweak MDC/KFD on Misaka</br>
 [Repo Misaka](https://tinyurl.com/romlayvn)
 
@@ -22,8 +22,7 @@
 | 17.0 & up | - | - |
 
 17.0 & up can use PiP tweaks
-
-<br>
+  
 ## Download
 <h3>You can download the latest version of misaka from here:</h3>
 
