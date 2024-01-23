@@ -10,7 +10,8 @@
 - [Twitter](https://x.com/romlayvn?s=21) - Ròm Lầy
 
 # Addrepo on Misaka
-•[Repo Misaka](https://tinyurl.com/romlayvn)-⚡️Ròm Lầy⚡️
+- [Repo RomLay](https://tinyurl.com/romlayvn)-⚡️Ròm Lầy⚡️
+- [Repo Hùng Anhh ♡](https://tinyurl.com/3yccwxet)- Hùng Anhh ♡
 
 # Versions Supported
 
