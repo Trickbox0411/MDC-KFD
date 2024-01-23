@@ -1,9 +1,8 @@
-<h1 align="center">Hello👋 I/m Ròm Lầy</h1>
+<h1 align="center">🌸 Welcome 🌸</h1>
 <p align="center"> 
  <img src="https://github.com/Trickbox0411/MDC-KFD/raw/main/Avt.png" alt="Avt" width="Avt" height="200"/> 
 <p/>
   
-=============
 # Contact me
 - [Telegram](https://t.me/romlayvn) - ℝ𝕠̀𝕞 𝕃𝕒̂̀𝕪
 - [Twitter](https://x.com/romlayvn?s=21) - Ròm Lầy
