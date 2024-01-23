@@ -21,8 +21,8 @@
 | 16.2 - 16.6.1 | - | ✓ |
 | 17.0 & up | - | - |
 
-- 17.0 & up can use PiP tweaks
-- Device support:A12+ iOS; ipadOS; tvOS
+- 17.0 & up can use PiP tweaks.
+- Device support:A12+ iOS; ipadOS; tvOS.
 # Download
 <h2>You can download the latest version of misaka from here:</h2>
 
@@ -30,7 +30,7 @@
 
 # Thank's Misaka Team!
 
-🎼<h3>Contributors</h3>
+<h3>🎼Contributors</h3>
 - [**straight-tamago**](https://twitter.com/straight_tamago): Lead Developer;
 - [**Little 34306**](https://twitter.com/Little_34306): KFD Exploit & Offsets;
 - [**Lavochka**](https://twitter.com/lavochka04): dylib injection;
