@@ -6,8 +6,8 @@
 [Welcome to my Github Repo](https://romlayvn.github.io/)
 =============
 # Contact me
-•[Telegram](https://t.me/romlayvn) - ℝ𝕠̀𝕞 𝕃𝕒̂̀𝕪
-•[Twitter](https://x.com/romlayvn?s=21) - Ròm Lầy
+- [Telegram](https://t.me/romlayvn) - ℝ𝕠̀𝕞 𝕃𝕒̂̀𝕪
+- [Twitter](https://x.com/romlayvn?s=21) - Ròm Lầy
 
 # Addrepo on Misaka
 •[Repo Misaka](https://tinyurl.com/romlayvn)-⚡️Ròm Lầy⚡️
