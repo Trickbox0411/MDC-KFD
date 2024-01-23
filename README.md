@@ -5,14 +5,12 @@
   
 [Welcome to my Github Repo](https://romlayvn.github.io/)
 =============
- <br>
-##Contact me
+ <br>Contact me</br>
 [Telegram](https://t.me/romlayvn)
 [Twitter](https://x.com/romlayvn?s=21)
-##Download Tweak MDC/KFD on Misaka
+<br>Download Tweak MDC/KFD on Misaka</br>
 [Repo Misaka](https://tinyurl.com/romlayvn)
 
-  </br>
 ## Versions Supported
 
 | iOS Versions | MDC | KFD |
