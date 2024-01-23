@@ -6,11 +6,11 @@
 [Welcome to my Github Repo](https://romlayvn.github.io/)
 =============
 ## Contact me
-[**Telegram**](https://t.me/romlayvn)
-[**Twitter**](https://x.com/romlayvn?s=21)
+• [**Telegram**](https://t.me/romlayvn)
+• [**Twitter**](https://x.com/romlayvn?s=21)
 
 ## Download Tweak MDC/KFD on Misaka
-[Repo Misaka](https://tinyurl.com/romlayvn)
+• [Repo Misaka](https://tinyurl.com/romlayvn)
 
 ## Versions Supported
 
