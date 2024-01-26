@@ -147,11 +147,11 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/LockScreen/com.Trickbox0411.ClockFonts.misaka",
+                    "Package": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/LockScreen/com.RomLayVn.ClockFonts.misaka",
                     "Description": "New Clock Fonts"
                 }
             ],
-            "PackageID": "com.RomLay.ClockFonts"
+            "PackageID": "com.RomLayVN.ClockFonts"
         },
         {
             "Name": "Fonts Clock 17",
@@ -177,11 +177,11 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/LockScreen/com.RomLay.ClockIos17.misaka",
+                    "Package": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/LockScreen/com.RomLayVN.ClockIos17.misaka",
                     "Description": "New Clock Fonts"
                 }
             ],
-            "PackageID": "com.RomLay.ClockIos17"
+            "PackageID": "com.RomLayVN.ClockIos17"
         },
         {
             "Name": "LS Bunny",
@@ -207,11 +207,11 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/LockScreen/com.RomLay.LS15Bunny.misaka",
+                    "Package": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/LockScreen/com.RomLayVN.LS15Bunny.misaka",
                     "Description": "For iOs15"
                 }
             ],
-            "PackageID": "com.RomLay.LS15Bunny"
+            "PackageID": "com.RomLayVN.LS15Bunny"
         },
         {
             "Name": "LS Buble",
@@ -237,11 +237,11 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/LockScreen/com.RomLay.LSBuble.misaka",
+                    "Package": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/LockScreen/com.RomLayVN.LSBuble.misaka",
                     "Description": "New Clock Fonts"
                 }
             ],
-            "PackageID": "com.RomLay.LSBuble"
+            "PackageID": "com.RomLayVN.LSBuble"
         },
         {
             "Name": "LS16 Book",
@@ -267,11 +267,11 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/LockScreen/com.RomLay.LS16Book.misaka",
+                    "Package": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/LockScreen/com.RomLayVN.LS16Book.misaka",
                     "Description": "New Clock Fonts"
                 }
             ],
-            "PackageID": "com.RomLay.LS16Book"
+            "PackageID": "com.RomLayVN.LS16Book"
         },
         {
             "Name": "LS16 Star Night",
@@ -298,11 +298,11 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/LockScreen/com.RomLay.LSStarNight.misaka",
+                    "Package": "https://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/LockScreen/com.RomLayVN.LSStarNight.misaka",
                     "Description": "New Clock Fonts"
                 }
             ],
-            "PackageID": "com.RomLay.LSStarNight"
+            "PackageID": "com.RomLayVN.LSStarNight"
         },
         {
             "Name": "LS16 Bunny",
@@ -328,11 +328,11 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "http://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/LockScreen/com.RomLay.LS16Bunny.misaka",
+                    "Package": "http://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/LockScreen/com.RomLayVN.LS16Bunny.misaka",
                     "Description": "For iOs16"
                 }
             ],
-            "PackageID": "com.RomLay.LS16Bunny"
+            "PackageID": "com.RomLayVN.LS16Bunny"
         },
         {
             "Name": "LS15 Eula",
@@ -362,11 +362,11 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "http://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/LockScreen/com.RomLay.LS15Eula.misaka",
+                    "Package": "http://github.com/Trickbox0411/MDC-KFD/raw/main/Tweaks/LockScreen/com.RomLayVN.LS15Eula.misaka",
                     "Description": "For iOs15"
                 }
             ],
-            "PackageID": "com.RomLay.LS15Eula"
+            "PackageID": "com.RomLayVN.LS15Eula"
         }
     ]
 }
